@@ -13,6 +13,7 @@ namespace GDApp.Gamer
             MockEasyBattleEasy();
 
             MockSingleAIBattelEasy();
+
             Console.ReadLine();
         }
 
